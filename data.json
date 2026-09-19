@@ -161,6 +161,24 @@
                     "tiktok": "https://vt.tiktok.com/ZSqWQnr6K/"
                 }
             ]
+        },
+        {
+            "nama": "@fajaruzumaki",
+            "pp": "https://res.cloudinary.com/cswt636n/image/upload/v1789809156/profil/aHR0cHM6Ly9wMTYtY29tbW9uLXNpZ24udGlrdG9rY2RuLXVzLmNvbS90b3MtYWxpc2ctYXZ0LTAwNjgvMTE0MmY3ZmNhZGMzOTU1MTEwNDAxYmMwNTBiOGZjMTN_dHBsdi10aWt0b2t4LWNyb3BjZW50ZXItcTozMDA6MzAwOnE3MC5qcGVnP2RyPTg4MzQmcmVmcmVzaF90b2tlbj01NmRiYW.jpg",
+            "videos": [
+                {
+                    "id": "fajaruzumaki_001",
+                    "video": "https://res.cloudinary.com/cswt636n/video/upload/v1789809162/video/fajaruzumaki_musicaldown.com_1789809100.mp4",
+                    "link": "https://alightcreative.com/am/share/u/es8CxXTDB9UPYjevYGb3mH9wm4k1/p/vnfF0kY6Qa-b9319e356a82c118",
+                    "tiktok": "https://vt.tiktok.com/ZSqWXLj2f/"
+                },
+                {
+                    "id": "fajaruzumaki_002",
+                    "video": "https://res.cloudinary.com/cswt636n/video/upload/v1789810213/video/fajaruzumaki_musicaldown.com_1789809561.mp4",
+                    "link": "https://alightcreative.com/am/share/u/es8CxXTDB9UPYjevYGb3mH9wm4k1/p/JBpmnaNmIq-91275544f23a797c",
+                    "tiktok": "https://vt.tiktok.com/ZSqWXcCWV/"
+                }
+            ]
         }
     ]
 }

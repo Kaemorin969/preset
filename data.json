@@ -95,6 +95,30 @@
                     "tiktok": "https://vt.tiktok.com/ZSqnpLygP/"
                 }
             ]
+        },
+        {
+            "nama": "@prstvall",
+            "pp": "https://res.cloudinary.com/cswt636n/image/upload/v1789805160/profil/aHR0cHM6Ly9wMTYtY29tbW9uLXNpZ24udGlrdG9rY2RuLXVzLmNvbS90b3MtYWxpc2ctYXZ0LTAwNjgvYmUwNGJlNmE0MzM2MzQ4NzYxZDlhYjdjMjY1OTUwOGR_dHBsdi10aWt0b2t4LWNyb3BjZW50ZXItcTozMDA6MzAwOnE3MC5qcGVnP2RyPTg4MzQmcmVmcmVzaF90b2tlbj02ZGIxM2.jpg",
+            "videos": [
+                {
+                    "id": "prstvall_001",
+                    "video": "https://res.cloudinary.com/cswt636n/video/upload/v1789805150/video/prstvall_musicaldown.com_1789805082.mp4",
+                    "link": "https://alightcreative.com/am/share/u/Bzd93B7gFSdLosAwzcz3a6oAsik1/p/fvdvkkL3ua-57e886cc4806a521",
+                    "tiktok": "https://vt.tiktok.com/ZSqWaXSsQ/"
+                }
+            ]
+        },
+        {
+            "nama": "@rachelclayrien",
+            "pp": "https://res.cloudinary.com/cswt636n/image/upload/v1789805488/profil/aHR0cHM6Ly9wMTYtY29tbW9uLXNpZ24udGlrdG9rY2RuLXVzLmNvbS90b3MtYWxpc2ctYXZ0LTAwNjgvMjU2MjlkNjJmNWY4ZGY3Y2IwMzY1NmMyODc5YWQ5Yzl_dHBsdi10aWt0b2t4LWNyb3BjZW50ZXItcTozMDA6MzAwOnE3MC5qcGVnP2RyPTg4MzQmcmVmcmVzaF90b2tlbj05MDk4OD.jpg",
+            "videos": [
+                {
+                    "id": "rachelclayrien_001",
+                    "video": "https://res.cloudinary.com/cswt636n/video/upload/v1789805470/video/rachelclayrien_musicaldown.com_1789805359.mp4",
+                    "link": "https://alightcreative.com/am/share/u/jimlKnNpmyLGZoKsHObHVxXGuKl2/p/sttuPdlvb7-495ee1d863644025",
+                    "tiktok": "https://vt.tiktok.com/ZSqWm6FqK/"
+                }
+            ]
         }
     ]
 }

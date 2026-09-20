@@ -1,0 +1,70 @@
+{
+  "profiles": [
+    {
+      "id": "prof_1",
+      "name": "Profil Eksklusif 1",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926862/efbd4c02b321410e397cd56f17259f02.jpg"
+    },
+    {
+      "id": "prof_2",
+      "name": "Profil Eksklusif 2",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926861/a59c2bce6e570e1e0791c32cf06788ff.jpg"
+    },
+    {
+      "id": "prof_3",
+      "name": "Profil Eksklusif 3",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926860/9aa53b7763c5b78148c4018dd4ddbb40.jpg"
+    },
+    {
+      "id": "prof_4",
+      "name": "Profil Eksklusif 4",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926859/70a46c2f695ed45d13cf85049adc24e3.jpg"
+    },
+    {
+      "id": "prof_5",
+      "name": "Profil Eksklusif 5",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926858/0bb9ec47879b304f6fda886eb36efce4.jpg"
+    },
+    {
+      "id": "prof_6",
+      "name": "Profil Eksklusif 6",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926857/bfd609de1b85760e301146e90effabf1.jpg"
+    },
+    {
+      "id": "prof_7",
+      "name": "Profil Eksklusif 7",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926856/e73d4fc157a374439cf9c901daf2eb69.jpg"
+    },
+    {
+      "id": "prof_8",
+      "name": "Profil Eksklusif 8",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926855/b25c8f76d33191389a93d9c3f8d6fd1c.jpg"
+    },
+    {
+      "id": "prof_9",
+      "name": "Profil Eksklusif 9",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926854/3e14d5d51a6b388fe02f4f17201ac18e.jpg"
+    },
+    {
+      "id": "prof_10",
+      "name": "Profil Eksklusif 10",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926853/4b6f49f78803be5922c14b840940f560.jpg"
+    },
+    {
+      "id": "prof_11",
+      "name": "Profil Eksklusif 11",
+      "price": 3000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_200,h_200,c_fill/v1789926853/f16c60e505ee88e29bbe385874d7df19.jpg"
+    }
+  ]
+}

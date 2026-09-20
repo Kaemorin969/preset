@@ -1,0 +1,16 @@
+{
+  "banners": [
+    {
+      "id": "banner_1",
+      "name": "Banner Eksklusif 1",
+      "price": 5000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_400,h_200,c_fill/v1789928176/15892f6909efa349c146b8cab829b53b.jpg"
+    },
+    {
+      "id": "banner_2",
+      "name": "Banner Eksklusif 2",
+      "price": 5000,
+      "image_url": "https://res.cloudinary.com/cswt636n/image/upload/f_auto,q_auto,w_400,h_200,c_fill/v1789928176/c0ed5c56ebba56db42fd3c552f96fc9c.jpg"
+    }
+  ]
+}
